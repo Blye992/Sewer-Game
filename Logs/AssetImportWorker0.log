@@ -1,0 +1,1197 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.22f1 (e1a7f79fd887) revision 14788599'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.1288; Version 2004; 64bit' Language: 'en' Physical Memory: 16061 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/srodg/Documents/GitHub/yes
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54967
+Successfully changed project path to: C:/Users/srodg/Documents/GitHub/yes
+C:/Users/srodg/Documents/GitHub/yes
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 53.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/srodg/Documents/GitHub/yes/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   
+    VRAM:     8044 MB
+    Driver:   27.21.14.6235
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001592 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1046ms)
+		BeginReloadAssembly (55ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (430ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (145ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (171ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (50ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (85ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.947 seconds
+Domain Reload Profiling:
+	ReloadAssembly (948ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (785ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (243ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (311ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (179ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.6 MB.
+System memory in use after: 95.7 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2620.
+Total: 2.528600 ms (FindLiveObjects: 0.149700 ms CreateObjectMapping: 0.037400 ms MarkObjects: 2.278800 ms  DeleteObjects: 0.061600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(15d6ea22d39990f4ea765823486aa2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(15d6ea22d39990f4ea765823486aa2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a56d9d72009b519660832d2db683fc') in 0.008714 seconds 
+  Import took 0.011342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Scripts/Hurt.anim
+  artifactKey: Guid(92bd7fe317838864abe4983ec5dea152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Hurt.anim using Guid(92bd7fe317838864abe4983ec5dea152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54bf6c28cdc6d89f9ad6672a4bda5ebd') in 0.019752 seconds 
+  Import took 0.022548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Scripts/Playermovement.cs
+  artifactKey: Guid(7dfcd6415e024b1499ff52a4bf1fde9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Playermovement.cs using Guid(7dfcd6415e024b1499ff52a4bf1fde9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a01d6d6f1fd4e79db69a2dae99d6aa') in 0.008299 seconds 
+  Import took 0.010930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.545024 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(86c318a810c53854fa78ac4ff0f2fdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(86c318a810c53854fa78ac4ff0f2fdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32dbd1f957d8cf1cd4a607891b7050a9') in 0.005703 seconds 
+  Import took 0.008872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.920234 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(9ca8ea3c39cf26245b9d8131f73650e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(9ca8ea3c39cf26245b9d8131f73650e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7794bedd423c271497b5e2e74df740c7') in 0.005547 seconds 
+  Import took 0.008674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.762250 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(7972aea0725f4ea49a521f2f412bf5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(7972aea0725f4ea49a521f2f412bf5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194519837d237ab417ecd2c455dfef6f') in 0.006885 seconds 
+  Import took 0.009850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.951568 seconds.
+  path: Assets/Tiles Sewer/Canvern(has key)_33.asset
+  artifactKey: Guid(0fca9455c9bcaa448b20020953e01401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer/Canvern(has key)_33.asset using Guid(0fca9455c9bcaa448b20020953e01401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457f10caf0c8c7952cb121f12d7c04d7') in 0.051330 seconds 
+  Import took 0.055423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Tiles Sewer/Canvern(has key)_36.asset
+  artifactKey: Guid(2d70422fae5981845addd8bcaa753580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer/Canvern(has key)_36.asset using Guid(2d70422fae5981845addd8bcaa753580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf5ccc7d4cbad3d2c379e9bc1531175') in 0.009799 seconds 
+  Import took 0.013881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Tiles Sewer/Canvern(has key)_35.asset
+  artifactKey: Guid(dd95cd9c81135374ab79cbbec9654d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer/Canvern(has key)_35.asset using Guid(dd95cd9c81135374ab79cbbec9654d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58008536b2cac742172b5a304c94ea4') in 0.009703 seconds 
+  Import took 0.013449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Tiles Sewer/Canvern(has key)_34.asset
+  artifactKey: Guid(8a11f44785501e6418fc23d0757c3f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer/Canvern(has key)_34.asset using Guid(8a11f44785501e6418fc23d0757c3f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df963cddcdb21efe9fb26b9966945330') in 0.010788 seconds 
+  Import took 0.014547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.341360 seconds.
+  path: Assets/Tiles Sewer Background
+  artifactKey: Guid(ffd01d402f942e24899e95336d2bcce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background using Guid(ffd01d402f942e24899e95336d2bcce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e11e314fd929e39c3d6269ae831e8df') in 0.005511 seconds 
+  Import took 0.008397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.055260 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864d01c691c4d4f786395c5c5a2daf1d') in 0.006614 seconds 
+  Import took 0.009539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.158547 seconds.
+  path: Assets/Cavern Tiles
+  artifactKey: Guid(fdc4a8bb8433d5343a230c5f311ac2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles using Guid(fdc4a8bb8433d5343a230c5f311ac2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfd8fa19cf5aec7b6398b1882d84658c') in 0.007350 seconds 
+  Import took 0.010505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.457214 seconds.
+  path: Assets/Deep Caves Assets/Demo Scene
+  artifactKey: Guid(7549b6fbab51eb349a78b5e380190516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets/Demo Scene using Guid(7549b6fbab51eb349a78b5e380190516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4126f61da12a8d5ac242731b5eea11e9') in 0.005733 seconds 
+  Import took 0.008802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.750691 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_91.asset
+  artifactKey: Guid(51762da994828af4fbb5f0e1f68be9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_91.asset using Guid(51762da994828af4fbb5f0e1f68be9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd419f078b4201fa68f7a026cb7b0b2bd') in 0.012131 seconds 
+  Import took 0.016301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_92.asset
+  artifactKey: Guid(a4507f71aa170894a9b72fceb1ac2d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_92.asset using Guid(a4507f71aa170894a9b72fceb1ac2d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65a14fc1cb42d132cbeaeef1d8a069f') in 0.011383 seconds 
+  Import took 0.014489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_106.asset
+  artifactKey: Guid(dafae13b64b4e46488b01740c549fb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_106.asset using Guid(dafae13b64b4e46488b01740c549fb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b37fb5d06665338ea34ab7db89b33a7') in 0.010425 seconds 
+  Import took 0.013595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_95.asset
+  artifactKey: Guid(821db2241128bd54dad64d92305a7308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_95.asset using Guid(821db2241128bd54dad64d92305a7308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c01f5719ee783fd5c4e6c9e2a29ee0') in 0.009368 seconds 
+  Import took 0.012496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_101.asset
+  artifactKey: Guid(6e6f4f8f9efa43246b46ef791672114a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_101.asset using Guid(6e6f4f8f9efa43246b46ef791672114a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801221b59df4ef879a81ba57ba4e14cc') in 0.013132 seconds 
+  Import took 0.015806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_99.asset
+  artifactKey: Guid(6c29afa6527fe3f4194e787949dafe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_99.asset using Guid(6c29afa6527fe3f4194e787949dafe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afb8debb579598679798cfd28ee968e') in 0.011323 seconds 
+  Import took 0.014809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_109.asset
+  artifactKey: Guid(8637aff4dbe3d2848b97cac05ce6511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_109.asset using Guid(8637aff4dbe3d2848b97cac05ce6511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238670cb16216eeaea2ee56422db786d') in 0.011061 seconds 
+  Import took 0.013819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_111.asset
+  artifactKey: Guid(9cc197e7a1a2ac240911c21e135c2461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_111.asset using Guid(9cc197e7a1a2ac240911c21e135c2461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7c63c4251648cdeac96e9c0daefe6e') in 0.010764 seconds 
+  Import took 0.013799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_112.asset
+  artifactKey: Guid(500661df5459bf742b23d4e64e88bffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_112.asset using Guid(500661df5459bf742b23d4e64e88bffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dcc81d6987ae01074fd5877de4f510d') in 0.010024 seconds 
+  Import took 0.012948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_104.asset
+  artifactKey: Guid(f6c5480e4532d6b43980241490675f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_104.asset using Guid(f6c5480e4532d6b43980241490675f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b394fa59639fef883c037dc21b3eb90a') in 0.010286 seconds 
+  Import took 0.013105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_108.asset
+  artifactKey: Guid(c297153979c3b8c498fa1f5f5dc56d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_108.asset using Guid(c297153979c3b8c498fa1f5f5dc56d21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a61c2d37745d2fc0f424abf04f71857') in 0.009992 seconds 
+  Import took 0.012887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_102.asset
+  artifactKey: Guid(94add180c536bbd4997ea3ead96e1631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_102.asset using Guid(94add180c536bbd4997ea3ead96e1631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1fab4f704482e4f826387814b74add1') in 0.010356 seconds 
+  Import took 0.013362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_98.asset
+  artifactKey: Guid(ecda3814861851a4083958ddc4bb575f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_98.asset using Guid(ecda3814861851a4083958ddc4bb575f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c393354eecb8e8322fedf02e36a092') in 0.009844 seconds 
+  Import took 0.012742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_93.asset
+  artifactKey: Guid(70b03cbbd5da5e24c905d281bc9e3f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_93.asset using Guid(70b03cbbd5da5e24c905d281bc9e3f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad42e3504546ee55883e39237fb8a5f') in 0.011208 seconds 
+  Import took 0.014267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_100.asset
+  artifactKey: Guid(b506d1e0efde30d4a9a358a3c43c17eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_100.asset using Guid(b506d1e0efde30d4a9a358a3c43c17eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e2b014b1031f2615dd05942462067a') in 0.010606 seconds 
+  Import took 0.013522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_110.asset
+  artifactKey: Guid(2243f8d1559e6844a914ce61c435995b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_110.asset using Guid(2243f8d1559e6844a914ce61c435995b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc8181b3f51f7e9db36a9629d68271b') in 0.010684 seconds 
+  Import took 0.013513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_107.asset
+  artifactKey: Guid(b74279573741345449e78716601acd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_107.asset using Guid(b74279573741345449e78716601acd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d583c9544e6c0eca394b543ee39c38') in 0.009315 seconds 
+  Import took 0.012740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_103.asset
+  artifactKey: Guid(fc5eb10ec4bb39643ad8cf65abde2cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_103.asset using Guid(fc5eb10ec4bb39643ad8cf65abde2cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd257262b622a29df72e187a25d4ca117') in 0.013831 seconds 
+  Import took 0.016673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_96.asset
+  artifactKey: Guid(4a63c42680417bf499d280a5e552f9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_96.asset using Guid(4a63c42680417bf499d280a5e552f9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8992eca61ea39f0563d53f23ab6e53cd') in 0.010985 seconds 
+  Import took 0.013925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_105.asset
+  artifactKey: Guid(f6888c0126a3ca64e93130293f535883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_105.asset using Guid(f6888c0126a3ca64e93130293f535883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a39860c71cd87a8247b35ffe6592d5c') in 0.010401 seconds 
+  Import took 0.013401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_94.asset
+  artifactKey: Guid(49b02d1f4422404418368b0d71119a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_94.asset using Guid(49b02d1f4422404418368b0d71119a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c1deeef0d2e8f21e8c53f48878679b') in 0.011376 seconds 
+  Import took 0.014049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_97.asset
+  artifactKey: Guid(0b65548b8e3c30344a0ebfa7d8356389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_97.asset using Guid(0b65548b8e3c30344a0ebfa7d8356389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33123af20fb23f44679c26f9c1560289') in 0.009661 seconds 
+  Import took 0.012710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051795 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_113.asset
+  artifactKey: Guid(1cb0309df29c43f47b8b1a3c7f415890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_113.asset using Guid(1cb0309df29c43f47b8b1a3c7f415890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e62b36652e5afe50c5a5af864b17be0') in 0.011780 seconds 
+  Import took 0.014999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_114.asset
+  artifactKey: Guid(29dd1e2d5e70f5744a90cd0092301de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_114.asset using Guid(29dd1e2d5e70f5744a90cd0092301de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9c91cdfa35dfd8b3fb0edea4fc365f') in 0.009960 seconds 
+  Import took 0.013062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_143.asset
+  artifactKey: Guid(097cb26c605b77141ad2d75c0c8c8456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_143.asset using Guid(097cb26c605b77141ad2d75c0c8c8456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93030cff54db074bdd4829e8f8f7861') in 0.010154 seconds 
+  Import took 0.013542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_139.asset
+  artifactKey: Guid(7908ef80171c2764685f1ae300ef79ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_139.asset using Guid(7908ef80171c2764685f1ae300ef79ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee788690b2878e70a093010a333b6748') in 0.012030 seconds 
+  Import took 0.014978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_129.asset
+  artifactKey: Guid(5afe94befa5e77c42aaeb264b6504058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_129.asset using Guid(5afe94befa5e77c42aaeb264b6504058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b67e1a4a461de21f34e93f31f977fa') in 0.012780 seconds 
+  Import took 0.015795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_115.asset
+  artifactKey: Guid(daa1165b625525f409c00ef5929d4f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_115.asset using Guid(daa1165b625525f409c00ef5929d4f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a883670782a967da2b713d9e6ed118c') in 0.009938 seconds 
+  Import took 0.013729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_140.asset
+  artifactKey: Guid(edd6c53ddf971f844b7fb8baba7fc50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_140.asset using Guid(edd6c53ddf971f844b7fb8baba7fc50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8229e608a45b7d4c2d05dd9052fc9ba8') in 0.010567 seconds 
+  Import took 0.014220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_135.asset
+  artifactKey: Guid(07a63b01a19f72d4d926b40c9e28dc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_135.asset using Guid(07a63b01a19f72d4d926b40c9e28dc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2406fc955f686224b70dfafee145f81e') in 0.010776 seconds 
+  Import took 0.014300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_126.asset
+  artifactKey: Guid(9908f8038f0276446baa94b93b73a808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_126.asset using Guid(9908f8038f0276446baa94b93b73a808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccf33cf140c48dd1c1a5d1b0842b5fb8') in 0.012157 seconds 
+  Import took 0.016447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_159.asset
+  artifactKey: Guid(3a874c0dfddbf1741b25757e5fd20c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_159.asset using Guid(3a874c0dfddbf1741b25757e5fd20c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd72f5fcdb07397145d804ef71441a6c') in 0.010975 seconds 
+  Import took 0.014109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_185.asset
+  artifactKey: Guid(2d564df496c8a20499ddb13080578eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_185.asset using Guid(2d564df496c8a20499ddb13080578eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90601661c756b71d0ecdb0075e099f40') in 0.009639 seconds 
+  Import took 0.012994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_195.asset
+  artifactKey: Guid(b042094a23f8be1488758bd4adec1cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_195.asset using Guid(b042094a23f8be1488758bd4adec1cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b2915e7989e380f7a1b4d2b462d75c') in 0.009970 seconds 
+  Import took 0.013452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_145.asset
+  artifactKey: Guid(73b543befd5c09d40aceb1f0e6117aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_145.asset using Guid(73b543befd5c09d40aceb1f0e6117aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec49ff82913ca59f58a204812448f7d8') in 0.013687 seconds 
+  Import took 0.016615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_149.asset
+  artifactKey: Guid(5c3bc505a599b7d4797b7bc1ed065fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_149.asset using Guid(5c3bc505a599b7d4797b7bc1ed065fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f42c7abb97d2e9f08f09239df08f97') in 0.012321 seconds 
+  Import took 0.015553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_179.asset
+  artifactKey: Guid(3b85799bd831de548987d1057a1ba580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_179.asset using Guid(3b85799bd831de548987d1057a1ba580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2998ae123d4282a1056a18d158a4e120') in 0.013617 seconds 
+  Import took 0.016785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_191.asset
+  artifactKey: Guid(406126df3cfd1164eb4382d16c466e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_191.asset using Guid(406126df3cfd1164eb4382d16c466e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a087dbd8ecdd0674ebff3ccda1fe42') in 0.011187 seconds 
+  Import took 0.014347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_158.asset
+  artifactKey: Guid(cdff3180956514c44a342bf3111bc5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_158.asset using Guid(cdff3180956514c44a342bf3111bc5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a24532428bef3c374683769d284e822') in 0.014946 seconds 
+  Import took 0.018477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_168.asset
+  artifactKey: Guid(35a83c389e952fe47bcf6fd555ae6809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_168.asset using Guid(35a83c389e952fe47bcf6fd555ae6809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5a576fa7ef7ae570516f4f0efe7dd4') in 0.010423 seconds 
+  Import took 0.014299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_186.asset
+  artifactKey: Guid(6eb57ae150f5caa48b2e511351e87c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_186.asset using Guid(6eb57ae150f5caa48b2e511351e87c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd8212e70822e9bb4c4931453919aa84') in 0.017464 seconds 
+  Import took 0.021442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_161.asset
+  artifactKey: Guid(d0aa1cd8a74283b428464ab83f6ab291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_161.asset using Guid(d0aa1cd8a74283b428464ab83f6ab291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d9b62adba7d7443794b93a250c83e0e') in 0.011810 seconds 
+  Import took 0.014975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_175.asset
+  artifactKey: Guid(d220327e091f7454f9ccd2ff5ef24bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_175.asset using Guid(d220327e091f7454f9ccd2ff5ef24bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11bb6441a8eaae710d36457e23fdef0') in 0.010328 seconds 
+  Import took 0.014055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_181.asset
+  artifactKey: Guid(2ef931456b0ca5e48ae9859965e14fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_181.asset using Guid(2ef931456b0ca5e48ae9859965e14fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388d58e295ece6633f1301a347ada87a') in 0.011547 seconds 
+  Import took 0.014891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_176.asset
+  artifactKey: Guid(25d0fc0f62a6cee449d23743ad77c023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_176.asset using Guid(25d0fc0f62a6cee449d23743ad77c023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32e576e76144b566b772df6f00ccf2b') in 0.014571 seconds 
+  Import took 0.017970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_180.asset
+  artifactKey: Guid(1015596a42412ca479247c3d66f6e047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_180.asset using Guid(1015596a42412ca479247c3d66f6e047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a77a83354864201da64769068fa0733') in 0.012538 seconds 
+  Import took 0.016076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_128.asset
+  artifactKey: Guid(3f54a8ad219407840b8416d2a9cf5cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_128.asset using Guid(3f54a8ad219407840b8416d2a9cf5cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e952339fff2389a3e0db1718d9940dd8') in 0.011427 seconds 
+  Import took 0.014951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_120.asset
+  artifactKey: Guid(b5baec8f1d4482546a8777679ab42288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_120.asset using Guid(b5baec8f1d4482546a8777679ab42288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95b3f0de0a761ba61df2603cec9679f') in 0.010694 seconds 
+  Import took 0.014084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_170.asset
+  artifactKey: Guid(4ebd71497f9b16f43904a47283838f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_170.asset using Guid(4ebd71497f9b16f43904a47283838f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6aecc7d0076ec99cba375162131e8b4') in 0.012414 seconds 
+  Import took 0.016511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_190.asset
+  artifactKey: Guid(4aa0e3b07ed720943878fb8e5b428df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_190.asset using Guid(4aa0e3b07ed720943878fb8e5b428df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f139fc863ddd7dbf654e6cce41ca37') in 0.011165 seconds 
+  Import took 0.015042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_192.asset
+  artifactKey: Guid(b60b42e51f085ae4b991755a2e6d2697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_192.asset using Guid(b60b42e51f085ae4b991755a2e6d2697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f2c8fd848c9e5fcdf49ebb0b03930bb') in 0.011812 seconds 
+  Import took 0.015404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_146.asset
+  artifactKey: Guid(0aaac5f7e4e7f9041a7d5b1147c81d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_146.asset using Guid(0aaac5f7e4e7f9041a7d5b1147c81d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fe837829bf015026ba29d63c726b5e') in 0.011215 seconds 
+  Import took 0.014822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_163.asset
+  artifactKey: Guid(bd848187921880c46895b44226f77876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_163.asset using Guid(bd848187921880c46895b44226f77876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53210a87e0b7d59da78d930d09023fd') in 0.010924 seconds 
+  Import took 0.014874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_156.asset
+  artifactKey: Guid(6aa45e4cb09aaf14a851ae4d41c00ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_156.asset using Guid(6aa45e4cb09aaf14a851ae4d41c00ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d8c03be9957a91bd16ceffdba5a68e') in 0.010992 seconds 
+  Import took 0.014446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_162.asset
+  artifactKey: Guid(4271912901ee13d4d921a26632c93b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_162.asset using Guid(4271912901ee13d4d921a26632c93b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f3b90b8261606604de90ee48dea4c8') in 0.013048 seconds 
+  Import took 0.017366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_142.asset
+  artifactKey: Guid(e82763a12b06aae4d9a104b7edc8440b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_142.asset using Guid(e82763a12b06aae4d9a104b7edc8440b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ff6cdb86e0911bb293490d03b85ffd') in 0.012691 seconds 
+  Import took 0.015837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_137.asset
+  artifactKey: Guid(e6760917141421e44ac69398275cb4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_137.asset using Guid(e6760917141421e44ac69398275cb4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8115efc2f28d4b91a51631125d5d1963') in 0.012304 seconds 
+  Import took 0.015863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_123.asset
+  artifactKey: Guid(ab70aa314da812449be76bcba477fe70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_123.asset using Guid(ab70aa314da812449be76bcba477fe70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11971ff387ce5abe60752e15910263b9') in 0.010833 seconds 
+  Import took 0.014308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_152.asset
+  artifactKey: Guid(b971af3aaab68e9468204ad0ff0c0324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_152.asset using Guid(b971af3aaab68e9468204ad0ff0c0324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012c612375bbc838de8fbe03f390a81f') in 0.011800 seconds 
+  Import took 0.015269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_130.asset
+  artifactKey: Guid(3921a48170fa86948a38e354b1bc4cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_130.asset using Guid(3921a48170fa86948a38e354b1bc4cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa0cf396116fa470ed455bdcba0ed96') in 0.011205 seconds 
+  Import took 0.014555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_148.asset
+  artifactKey: Guid(b23d466e73558004c9a5d4780d98cbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_148.asset using Guid(b23d466e73558004c9a5d4780d98cbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd565721ce4693d9101a9c5b2efe31483') in 0.011337 seconds 
+  Import took 0.014637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_118.asset
+  artifactKey: Guid(427ff7693934dab49afba504647b6897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_118.asset using Guid(427ff7693934dab49afba504647b6897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea633abee66e02b848c2625b173bda9') in 0.012176 seconds 
+  Import took 0.015682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_189.asset
+  artifactKey: Guid(d73c927937dd12d4ab0f44e6adf1c757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_189.asset using Guid(d73c927937dd12d4ab0f44e6adf1c757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb5a92c258469f16a4dba63dd075b22') in 0.011419 seconds 
+  Import took 0.015362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_125.asset
+  artifactKey: Guid(343b7b0674902d04698a0f01d6434aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_125.asset using Guid(343b7b0674902d04698a0f01d6434aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd413e76f26ac6ff99d994dd867629937') in 0.011197 seconds 
+  Import took 0.015063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_124.asset
+  artifactKey: Guid(b38794c3e32d0da4abb9f86712f4bc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_124.asset using Guid(b38794c3e32d0da4abb9f86712f4bc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd146c2856e3c3b6e733ce9ea4b7cad0') in 0.013142 seconds 
+  Import took 0.016385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_164.asset
+  artifactKey: Guid(5c5f723fab380e442a66f1af124fe6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_164.asset using Guid(5c5f723fab380e442a66f1af124fe6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee94ca81ef9a6037a7ab8542e20ccaf') in 0.013585 seconds 
+  Import took 0.017177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_141.asset
+  artifactKey: Guid(ea0835d0215c3af48a149c52d56d4b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_141.asset using Guid(ea0835d0215c3af48a149c52d56d4b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db42a838fd4a6c94b69fba09c91bca3d') in 0.012211 seconds 
+  Import took 0.016132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_151.asset
+  artifactKey: Guid(368c208958cb0b54790b32ac2979213a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_151.asset using Guid(368c208958cb0b54790b32ac2979213a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e6aa2a9bdf85a1ee3ebaf72b4fd48b') in 0.011728 seconds 
+  Import took 0.015297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_150.asset
+  artifactKey: Guid(31db4614a84e0da4290ee6432011ebf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_150.asset using Guid(31db4614a84e0da4290ee6432011ebf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9942777cae04743439d0dcc863e74e41') in 0.012587 seconds 
+  Import took 0.015942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_193.asset
+  artifactKey: Guid(4c3e7606e62177d428b6793109ec0248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_193.asset using Guid(4c3e7606e62177d428b6793109ec0248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ac20c872629ab78262125ed91d0158') in 0.012682 seconds 
+  Import took 0.016417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_171.asset
+  artifactKey: Guid(d47b67ab20f235a43910c31ae2c8afcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_171.asset using Guid(d47b67ab20f235a43910c31ae2c8afcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65dbe40d1d595321625f1bc75b00a0ac') in 0.011228 seconds 
+  Import took 0.014500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_178.asset
+  artifactKey: Guid(bf5db03eee1d91a438aad52fbdda5bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_178.asset using Guid(bf5db03eee1d91a438aad52fbdda5bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea699485c8bdfbd3d3b9d176a7f06911') in 0.013749 seconds 
+  Import took 0.017025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_134.asset
+  artifactKey: Guid(ae56b09468728c449a463386771394c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_134.asset using Guid(ae56b09468728c449a463386771394c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae2e81d4e84e04dc44817b24bf3b952') in 0.011768 seconds 
+  Import took 0.016373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_119.asset
+  artifactKey: Guid(2af9b467437827b40b091331401154ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_119.asset using Guid(2af9b467437827b40b091331401154ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af18978ad5ba16dd7448714696bbcd12') in 0.012994 seconds 
+  Import took 0.016379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_136.asset
+  artifactKey: Guid(abd8d940ab9a342409d4a44d384923bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_136.asset using Guid(abd8d940ab9a342409d4a44d384923bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e7307937c009b390911e5078e7dbb4') in 0.012881 seconds 
+  Import took 0.016173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_160.asset
+  artifactKey: Guid(6d02a524a5e246b44913fe647d9ff6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_160.asset using Guid(6d02a524a5e246b44913fe647d9ff6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebdfb6c73faa0143c836d2cd41edae5d') in 0.011707 seconds 
+  Import took 0.015357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_138.asset
+  artifactKey: Guid(0d469b234fae74d44b3fe0a420181178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_138.asset using Guid(0d469b234fae74d44b3fe0a420181178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cffc998a70143c0f915ffdf1f8e8f0e') in 0.013121 seconds 
+  Import took 0.016328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_169.asset
+  artifactKey: Guid(0df09962d55ec6248a1c2759b4322cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_169.asset using Guid(0df09962d55ec6248a1c2759b4322cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42d9ed2b754f040522dce52ca71dad0') in 0.013391 seconds 
+  Import took 0.016685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_187.asset
+  artifactKey: Guid(2ef4ab4b02f90c84b86bd20f157f8597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_187.asset using Guid(2ef4ab4b02f90c84b86bd20f157f8597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302d68b837d4674b3588bd2762348ad3') in 0.013445 seconds 
+  Import took 0.016803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_122.asset
+  artifactKey: Guid(815e6ad963fb86e479eafda2aef11a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_122.asset using Guid(815e6ad963fb86e479eafda2aef11a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074818435467addcaf542a5f381435fb') in 0.011727 seconds 
+  Import took 0.015010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_117.asset
+  artifactKey: Guid(3a8287fe34dbe0a4a8239c5dfc3ac0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_117.asset using Guid(3a8287fe34dbe0a4a8239c5dfc3ac0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf932edf243f5bf24b3022ce80b260b3') in 0.011655 seconds 
+  Import took 0.014888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_147.asset
+  artifactKey: Guid(ece94abdf5aec664ead14806b57a1c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_147.asset using Guid(ece94abdf5aec664ead14806b57a1c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '322a789171caa0f7320bb8b9a9c6cf00') in 0.014535 seconds 
+  Import took 0.018111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_165.asset
+  artifactKey: Guid(11902fa8b4d2e1946adf27880bd856cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_165.asset using Guid(11902fa8b4d2e1946adf27880bd856cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a66366780b68d12bee82ac97560b68') in 0.011502 seconds 
+  Import took 0.014866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_131.asset
+  artifactKey: Guid(11dc48964b07cf4418e117333b6bc613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_131.asset using Guid(11dc48964b07cf4418e117333b6bc613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf17ff4080aa734c6064799d7ecf5ca') in 0.013706 seconds 
+  Import took 0.017075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_184.asset
+  artifactKey: Guid(4773ae97af191b94fa764c3b201c4dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_184.asset using Guid(4773ae97af191b94fa764c3b201c4dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6b475aadbff74e035b2f14bf22c643') in 0.013208 seconds 
+  Import took 0.016840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_154.asset
+  artifactKey: Guid(eec0d9b203365f545ac87a1cc4a0e833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_154.asset using Guid(eec0d9b203365f545ac87a1cc4a0e833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dae75c50130da4e0f7bac7b3796f2f') in 0.011134 seconds 
+  Import took 0.014422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_194.asset
+  artifactKey: Guid(b4f9091f13bbd5d498678cbf343c0876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_194.asset using Guid(b4f9091f13bbd5d498678cbf343c0876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10929c18ad6ff2a44a2e8d04ed3f3dee') in 0.013409 seconds 
+  Import took 0.017430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_127.asset
+  artifactKey: Guid(f6afedf5c1342654fa2c1babe19a38c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_127.asset using Guid(f6afedf5c1342654fa2c1babe19a38c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15e399fe71de6f4ed385617b7b8162e') in 0.012366 seconds 
+  Import took 0.016666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_153.asset
+  artifactKey: Guid(81194912816774f4298b7538c814a9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_153.asset using Guid(81194912816774f4298b7538c814a9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915caf4a3e0c57811c16bd6975921544') in 0.011001 seconds 
+  Import took 0.015090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_132.asset
+  artifactKey: Guid(20179de1649973947b749e84a80ad703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_132.asset using Guid(20179de1649973947b749e84a80ad703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c45a715debb9a6188070348c1855b9') in 0.011370 seconds 
+  Import took 0.016150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_177.asset
+  artifactKey: Guid(4b095de8c195477419ece02c2d4bfc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_177.asset using Guid(4b095de8c195477419ece02c2d4bfc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9075981894cff011df5aafc9a8708dcb') in 0.013490 seconds 
+  Import took 0.016832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_188.asset
+  artifactKey: Guid(6919cd3f63856d844935451ac3430897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_188.asset using Guid(6919cd3f63856d844935451ac3430897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50df650941065e7298bb135f6c35c609') in 0.013278 seconds 
+  Import took 0.016729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_144.asset
+  artifactKey: Guid(3753d686e5885de4ca664024047b23f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_144.asset using Guid(3753d686e5885de4ca664024047b23f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b78f816ba6cb15b72064fa59c5ff204') in 0.012658 seconds 
+  Import took 0.016081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_172.asset
+  artifactKey: Guid(259c9d2c9ff7eb24091fbea6dfeba866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_172.asset using Guid(259c9d2c9ff7eb24091fbea6dfeba866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3086248cc7867d99849269b2e83b78b2') in 0.012080 seconds 
+  Import took 0.016035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_183.asset
+  artifactKey: Guid(8851a7d7d8aec3f4398caf090ab4c41c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_183.asset using Guid(8851a7d7d8aec3f4398caf090ab4c41c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea118f4f12e51ea51a591242c3ab83d') in 0.012317 seconds 
+  Import took 0.015765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_121.asset
+  artifactKey: Guid(992ffd27d5c16c54a861db2bb080ed25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_121.asset using Guid(992ffd27d5c16c54a861db2bb080ed25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f7362b27bcb6b65eb94ca81cd20184') in 0.014345 seconds 
+  Import took 0.017766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_116.asset
+  artifactKey: Guid(91ce199c61a961241abbd9dfbafeebd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_116.asset using Guid(91ce199c61a961241abbd9dfbafeebd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e2f75b6f3c07a1cd7a206ca66689f1') in 0.011817 seconds 
+  Import took 0.015157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_167.asset
+  artifactKey: Guid(dc69b439c1e157c4b8e0a1cbce491f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_167.asset using Guid(dc69b439c1e157c4b8e0a1cbce491f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8df08d87d3ea3df8b62d0e0846a8226') in 0.011035 seconds 
+  Import took 0.015062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_133.asset
+  artifactKey: Guid(f01d809d8302a8343b3d7d70479f7f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_133.asset using Guid(f01d809d8302a8343b3d7d70479f7f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ae7de0f9ed832f53f312e1e3b38f54') in 0.016614 seconds 
+  Import took 0.020269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_166.asset
+  artifactKey: Guid(0e7fe17d13284c141a7b44c187506fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_166.asset using Guid(0e7fe17d13284c141a7b44c187506fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ac2463ed7055ae778e4c0f4fed0bdb7') in 0.010563 seconds 
+  Import took 0.014610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_155.asset
+  artifactKey: Guid(24a89b91cf7b15641bab453c0d991de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_155.asset using Guid(24a89b91cf7b15641bab453c0d991de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff53463e7b0c70bb2ed7db93b1374dc9') in 0.011996 seconds 
+  Import took 0.016279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_157.asset
+  artifactKey: Guid(021bcf7d78ad71f46b907d990e2bded0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_157.asset using Guid(021bcf7d78ad71f46b907d990e2bded0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6769d13814409297ed65effe39976d8') in 0.011759 seconds 
+  Import took 0.015482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000775 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_173.asset
+  artifactKey: Guid(a4cb7adb9880bc74dab371c6f37f95ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_173.asset using Guid(a4cb7adb9880bc74dab371c6f37f95ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8e1ec47fedac3b7caa4382a2e6e08b') in 0.010690 seconds 
+  Import took 0.014308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_174.asset
+  artifactKey: Guid(fab53a72cf626df4980e76c96bb64317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_174.asset using Guid(fab53a72cf626df4980e76c96bb64317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b573820ae7f4b82bd1778786df61c2b1') in 0.014443 seconds 
+  Import took 0.018472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Cavern Tiles/Canvern(has key)_182.asset
+  artifactKey: Guid(f4bb8a09bec5fbe47b719c3be11db890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cavern Tiles/Canvern(has key)_182.asset using Guid(f4bb8a09bec5fbe47b719c3be11db890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd21b12f3a9509e50f5b4ac53313fde') in 0.011047 seconds 
+  Import took 0.014653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.987817 seconds.
+  path: Assets/Scripts/Spike.cs
+  artifactKey: Guid(64139963ac5cfb84dabf6627d008e073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spike.cs using Guid(64139963ac5cfb84dabf6627d008e073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a60a91635bc482ccc9b0a95e69af52') in 0.006999 seconds 
+  Import took 0.010530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.645830 seconds.
+  path: Assets/Animations/Background.controller
+  artifactKey: Guid(ec3e04a62ecd03d4fad3f718f0dc0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Background.controller using Guid(ec3e04a62ecd03d4fad3f718f0dc0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d548d524081413d24bae916da8b6233') in 0.010510 seconds 
+  Import took 0.014099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.381027 seconds.
+  path: Assets/Animations/Jump.anim
+  artifactKey: Guid(059fb735fdac95845addf733d7db6808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Jump.anim using Guid(059fb735fdac95845addf733d7db6808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec75b8fa321e19f9e005a4b5756453d4') in 0.006338 seconds 
+  Import took 0.009195 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.4 MB.
+System memory in use after: 55.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2624.
+Total: 4.359200 ms (FindLiveObjects: 0.186200 ms CreateObjectMapping: 0.051900 ms MarkObjects: 4.098700 ms  DeleteObjects: 0.020600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 179.733920 seconds.
+  path: Assets/Scripts/CameraController.cs
+  artifactKey: Guid(0bc6b0aad86af134d84ec5b1576c0379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraController.cs using Guid(0bc6b0aad86af134d84ec5b1576c0379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d9bd4b274309809ed753d1d10437d7b') in 0.007989 seconds 
+  Import took 0.011669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 595.726118 seconds.
+  path: Assets/Adventurer Sprite Sheet v1.3.png
+  artifactKey: Guid(6ce68bff5ea22b14f87fa342613ea904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Adventurer Sprite Sheet v1.3.png using Guid(6ce68bff5ea22b14f87fa342613ea904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5ef487fa70441aec9081f522c29f95') in 0.275762 seconds 
+  Import took 0.279622 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.6 MB.
+System memory in use after: 55.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2694.
+Total: 3.220100 ms (FindLiveObjects: 0.154700 ms CreateObjectMapping: 0.042400 ms MarkObjects: 3.005800 ms  DeleteObjects: 0.016400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 128.965570 seconds.
+  path: Assets/Scenes/Sewer Level 1.unity
+  artifactKey: Guid(1a77cbce52d32d742b0cd29e4cb3d5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sewer Level 1.unity using Guid(1a77cbce52d32d742b0cd29e4cb3d5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4caf4bdcaf96c0dd62c3f5e8a01f324') in 0.005909 seconds 
+  Import took 0.009186 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.7 MB.
+System memory in use after: 55.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2694.
+Total: 2.513800 ms (FindLiveObjects: 0.151100 ms CreateObjectMapping: 0.042500 ms MarkObjects: 2.304100 ms  DeleteObjects: 0.015500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
