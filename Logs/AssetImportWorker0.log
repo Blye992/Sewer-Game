@@ -15,11 +15,11 @@ C:/Users/Shema/OneDrive/Desktop/Game Making Folder/Sewer-Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58584
+58783
 Successfully changed project path to: C:/Users/Shema/OneDrive/Desktop/Game Making Folder/Sewer-Game
 C:/Users/Shema/OneDrive/Desktop/Game Making Folder/Sewer-Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 39.22 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 41.57 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
@@ -35,74 +35,74 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56328
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56176
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001733 seconds.
+Registered in 0.001721 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 37.93 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 39.46 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.891 seconds
+- Completed reload, in  0.937 seconds
 Domain Reload Profiling:
-	ReloadAssembly (891ms)
-		BeginReloadAssembly (45ms)
+	ReloadAssembly (938ms)
+		BeginReloadAssembly (48ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (363ms)
-			LoadAssemblies (43ms)
+		EndReloadAssembly (383ms)
+			LoadAssemblies (46ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (120ms)
+			SetupTypeCache (126ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (23ms)
-			SetupLoadedEditorAssemblies (139ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (148ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (38ms)
+				RefreshPlugins (40ms)
 				BeforeProcessingInitializeOnLoad (13ms)
-				ProcessInitializeOnLoadAttributes (63ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
+				ProcessInitializeOnLoadAttributes (68ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004311 seconds.
+Registered in 0.004443 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 37.84 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 38.95 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.914 seconds
+- Completed reload, in  0.955 seconds
 Domain Reload Profiling:
-	ReloadAssembly (914ms)
-		BeginReloadAssembly (116ms)
+	ReloadAssembly (956ms)
+		BeginReloadAssembly (123ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (747ms)
-			LoadAssemblies (75ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (780ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (244ms)
+			SetupTypeCache (259ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (38ms)
-			SetupLoadedEditorAssemblies (289ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (299ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (38ms)
+				RefreshPlugins (39ms)
 				BeforeProcessingInitializeOnLoad (68ms)
-				ProcessInitializeOnLoadAttributes (159ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
-				AfterProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (168ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
@@ -110,14 +110,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2189 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.6 MB.
-System memory in use after: 95.7 MB.
+Unloading 2190 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2622.
-Total: 2.511400 ms (FindLiveObjects: 0.176000 ms CreateObjectMapping: 0.085300 ms MarkObjects: 2.202600 ms  DeleteObjects: 0.046900 ms)
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2624.
+Total: 2.858700 ms (FindLiveObjects: 0.162300 ms CreateObjectMapping: 0.129000 ms MarkObjects: 2.517200 ms  DeleteObjects: 0.049500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,136 +131,288 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(86c318a810c53854fa78ac4ff0f2fdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(86c318a810c53854fa78ac4ff0f2fdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7037511e8afe9a1d887039087879816d') in 0.007951 seconds 
-  Import took 0.010560 seconds .
+  path: Assets/Scripts
+  artifactKey: Guid(15d6ea22d39990f4ea765823486aa2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(15d6ea22d39990f4ea765823486aa2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3004a3fbd2539a297a2ae173846c82e') in 0.008669 seconds 
+  Import took 0.011269 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.906364 seconds.
-  path: Assets/Scenes/TheEnd.unity
-  artifactKey: Guid(1d2e1e8ac035a9d409052d3848bf2074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/TheEnd.unity using Guid(1d2e1e8ac035a9d409052d3848bf2074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71aee038805234a225862ba63b12665c') in 0.012827 seconds 
-  Import took 0.015509 seconds .
+  Time since last request: 16.403584 seconds.
+  path: Assets/Scenes/Start Menu.unity
+  artifactKey: Guid(6246f318c30fb6040bcab3e2acb23fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start Menu.unity using Guid(6246f318c30fb6040bcab3e2acb23fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2814f6e3a7c3791a9fd64a36169205') in 0.014441 seconds 
+  Import took 0.017343 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 165.126621 seconds.
+  Time since last request: 0.676397 seconds.
   path: Assets/Scenes/Sewer Level 1.unity
   artifactKey: Guid(1a77cbce52d32d742b0cd29e4cb3d5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Sewer Level 1.unity using Guid(1a77cbce52d32d742b0cd29e4cb3d5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a23f5ce6778cf75fb83002ece23e01a') in 0.006595 seconds 
-  Import took 0.009336 seconds .
+Start importing Assets/Scenes/Sewer Level 1.unity using Guid(1a77cbce52d32d742b0cd29e4cb3d5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2520f57a9347583b3227f6704ae23f2e') in 0.003186 seconds 
+  Import took 0.005883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.812314 seconds.
+  path: Assets/Tiles Sewer Background/background_0.asset
+  artifactKey: Guid(e459507799370c24b80f36eba4a03ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_0.asset using Guid(e459507799370c24b80f36eba4a03ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc5af17633a62f6e3788380a6f7b15a') in 0.067654 seconds 
+  Import took 0.070924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/Tiles Sewer Background/background_7.asset
+  artifactKey: Guid(b8adf82d6191ff147a9ae81c00e0f0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_7.asset using Guid(b8adf82d6191ff147a9ae81c00e0f0a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8352f5d80a82fd6e172b3910a03843f9') in 0.012473 seconds 
+  Import took 0.015576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000664 seconds.
+  path: Assets/Tiles Sewer Background/background_14.asset
+  artifactKey: Guid(994e94aa2ee0e664381986f2aa1822b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_14.asset using Guid(994e94aa2ee0e664381986f2aa1822b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128c213928b342ed2337bc38f7f99d19') in 0.011572 seconds 
+  Import took 0.014845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Tiles Sewer Background/background_15.asset
+  artifactKey: Guid(ed318ddd96a30fa4390aaafe64cbe5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_15.asset using Guid(ed318ddd96a30fa4390aaafe64cbe5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da38a8eb9d194bdb23ea7e9bb2b67a86') in 0.020364 seconds 
+  Import took 0.023326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Tiles Sewer Background/background_23.asset
+  artifactKey: Guid(89c08072146d44643b8cef6828651511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_23.asset using Guid(89c08072146d44643b8cef6828651511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f17dab73a0c11e4a95e7390bf05abd9') in 0.013525 seconds 
+  Import took 0.016302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Tiles Sewer Background/background_19.asset
+  artifactKey: Guid(a0099c73214e3944b8d41d585b89366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_19.asset using Guid(a0099c73214e3944b8d41d585b89366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c9ecd05bf1ba0d48639569007e0bc0') in 0.013717 seconds 
+  Import took 0.016614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Tiles Sewer Background/background_21.asset
+  artifactKey: Guid(230f8e9b49ba1c44ab4483c25b438206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_21.asset using Guid(230f8e9b49ba1c44ab4483c25b438206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa6717d03a6e5a80948b62d23cc658f') in 0.010739 seconds 
+  Import took 0.013774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Tiles Sewer Background/background_17.asset
+  artifactKey: Guid(60c9267be9b3a5249b385d4db4de1246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_17.asset using Guid(60c9267be9b3a5249b385d4db4de1246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad0b07f9a18e15f3320e1ff7fce2b0f9') in 0.010641 seconds 
+  Import took 0.014644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Tiles Sewer Background/background_3.asset
+  artifactKey: Guid(d0051139e6096924f81810f2ec282c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_3.asset using Guid(d0051139e6096924f81810f2ec282c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c200dfbf088b19eb1e3377c5e152c83c') in 0.012171 seconds 
+  Import took 0.016486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Tiles Sewer Background/background_9.asset
+  artifactKey: Guid(c88751cecb18ae646b041d56e39ad168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_9.asset using Guid(c88751cecb18ae646b041d56e39ad168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c419b0bec75883fa1c43a129fc91e3fa') in 0.012839 seconds 
+  Import took 0.016454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tiles Sewer Background/background_18.asset
+  artifactKey: Guid(af59bda39658a7b448635210bb3d2d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_18.asset using Guid(af59bda39658a7b448635210bb3d2d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6899d5490c9aa0fd4f3edd51154d915f') in 0.011386 seconds 
+  Import took 0.014441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Tiles Sewer Background/background_1.asset
+  artifactKey: Guid(af67ddb80a001464ab787d9dfc5327fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_1.asset using Guid(af67ddb80a001464ab787d9dfc5327fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c42f5c229ec788941cff9d6f848c97') in 0.014361 seconds 
+  Import took 0.018214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Tiles Sewer Background/background_11.asset
+  artifactKey: Guid(c29e8a9f0e4fea24aa213caa80396993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_11.asset using Guid(c29e8a9f0e4fea24aa213caa80396993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc29564f0ef4b1cd3f016316127a60f0') in 0.011390 seconds 
+  Import took 0.015188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Tiles Sewer Background/background_10.asset
+  artifactKey: Guid(c531f01aac596a943a215a5665585769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_10.asset using Guid(c531f01aac596a943a215a5665585769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646506d58a49c847ea2d1ee2e02bbee2') in 0.012777 seconds 
+  Import took 0.016745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Tiles Sewer Background/background_22.asset
+  artifactKey: Guid(cddb66751544d2844b430eb85108fdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_22.asset using Guid(cddb66751544d2844b430eb85108fdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750ae9367ee5ba475c0ac70c57f84dea') in 0.009438 seconds 
+  Import took 0.012546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tiles Sewer Background/background_4.asset
+  artifactKey: Guid(885a9d91e219d2b40a3587f4edfc5637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_4.asset using Guid(885a9d91e219d2b40a3587f4edfc5637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede6263ddba25502ce31180363b5bb43') in 0.014749 seconds 
+  Import took 0.018911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/Tiles Sewer Background/background_5.asset
+  artifactKey: Guid(ab37f8fefa8144d45974b99d0e3b21cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_5.asset using Guid(ab37f8fefa8144d45974b99d0e3b21cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04dcecc155738a6d185a3527923b2362') in 0.013846 seconds 
+  Import took 0.017196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Tiles Sewer Background/background_2.asset
+  artifactKey: Guid(8f0dc14675b8b69439a100316c8cccd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_2.asset using Guid(8f0dc14675b8b69439a100316c8cccd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fc748b226a226c7d4be89c6cb9d55c') in 0.009112 seconds 
+  Import took 0.011838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Tiles Sewer Background/background_13.asset
+  artifactKey: Guid(927b13544bba0134eb3a579450915dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_13.asset using Guid(927b13544bba0134eb3a579450915dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed33d8d672b233cc25a93e24059069a3') in 0.017205 seconds 
+  Import took 0.020695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Tiles Sewer Background/background_16.asset
+  artifactKey: Guid(9c6d38da03570104ca7f09821ad1e5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_16.asset using Guid(9c6d38da03570104ca7f09821ad1e5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0813bd2ccb1617d54dbe7dfa2bd5b35') in 0.012989 seconds 
+  Import took 0.016301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Tiles Sewer Background/background_8.asset
+  artifactKey: Guid(db9c4d2a30aa18d4c9bcd6736f0043ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_8.asset using Guid(db9c4d2a30aa18d4c9bcd6736f0043ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4aef44eef450e8ec49afa91835f1c09') in 0.013579 seconds 
+  Import took 0.016802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tiles Sewer Background/background_6.asset
+  artifactKey: Guid(f8316efb2ae738243886d0cf06153891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_6.asset using Guid(f8316efb2ae738243886d0cf06153891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab1166e16f19cef19206eb1cbf142edb') in 0.008941 seconds 
+  Import took 0.011675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Tiles Sewer Background/background_12.asset
+  artifactKey: Guid(effb66b7504b19940b8ac6a431a4e0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_12.asset using Guid(effb66b7504b19940b8ac6a431a4e0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e1555684e86709360ad2b225add345f') in 0.009069 seconds 
+  Import took 0.012909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Tiles Sewer Background/background_20.asset
+  artifactKey: Guid(2f3013e2a9899b04c8d75a15008e6649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles Sewer Background/background_20.asset using Guid(2f3013e2a9899b04c8d75a15008e6649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931dbe9b2a6d9758e8d8b767a7895f13') in 0.013266 seconds 
+  Import took 0.016127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.977594 seconds.
+  path: Assets/Deep Caves Assets
+  artifactKey: Guid(fc97cd05833df8745b7b83d434d419e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Deep Caves Assets using Guid(fc97cd05833df8745b7b83d434d419e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276e6001d998af1aa26ae60b8c58f90f') in 0.006229 seconds 
+  Import took 0.008961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 259.675864 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005269 seconds 
+  Import took 0.008849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.281842 seconds.
+  path: Assets/Word_Art1.png
+  artifactKey: Guid(a5189350394a04440bc78d1eea5c12fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Word_Art1.png using Guid(a5189350394a04440bc78d1eea5c12fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61928c81d1884ee1eb92ed31aa6b3592') in 0.065254 seconds 
+  Import took 0.068106 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004143 seconds.
+Registered in 0.004953 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.840 seconds
+- Completed reload, in  0.844 seconds
 Domain Reload Profiling:
-	ReloadAssembly (841ms)
-		BeginReloadAssembly (97ms)
+	ReloadAssembly (844ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (691ms)
+		EndReloadAssembly (693ms)
 			LoadAssemblies (75ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (245ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (34ms)
-			SetupLoadedEditorAssemblies (250ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (69ms)
-				ProcessInitializeOnLoadAttributes (161ms)
-				ProcessInitializeOnLoadMethodAttributes (9ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2179 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.0 MB.
-System memory in use after: 95.1 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2625.
-Total: 2.494300 ms (FindLiveObjects: 0.167400 ms CreateObjectMapping: 0.078600 ms MarkObjects: 2.232100 ms  DeleteObjects: 0.015500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 155.597399 seconds.
-  path: Assets/Scenes/TheEnd.unity
-  artifactKey: Guid(1d2e1e8ac035a9d409052d3848bf2074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/TheEnd.unity using Guid(1d2e1e8ac035a9d409052d3848bf2074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab532be711e3141516e3feb7c4b1fd7') in 0.012271 seconds 
-  Import took 0.015620 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004354 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.864 seconds
-Domain Reload Profiling:
-	ReloadAssembly (864ms)
-		BeginReloadAssembly (113ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (697ms)
-			LoadAssemblies (82ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (250ms)
+			SetupTypeCache (258ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (251ms)
+			SetupLoadedEditorAssemblies (245ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (71ms)
-				ProcessInitializeOnLoadAttributes (160ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (156ms)
 				ProcessInitializeOnLoadMethodAttributes (9ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2179 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 95.0 MB.
-System memory in use after: 95.2 MB.
+Unloading 2226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 100.6 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2627.
-Total: 2.480500 ms (FindLiveObjects: 0.165600 ms CreateObjectMapping: 0.079100 ms MarkObjects: 2.219700 ms  DeleteObjects: 0.015400 ms)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2669.
+Total: 2.854700 ms (FindLiveObjects: 0.164900 ms CreateObjectMapping: 0.081100 ms MarkObjects: 2.268500 ms  DeleteObjects: 0.339400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -272,3 +424,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 650.777200 seconds.
+  path: Assets/Scenes/Sewer Level 1.unity
+  artifactKey: Guid(1a77cbce52d32d742b0cd29e4cb3d5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sewer Level 1.unity using Guid(1a77cbce52d32d742b0cd29e4cb3d5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527e362e845f100b3e3099d55d818eb0') in 0.010828 seconds 
+  Import took 0.014210 seconds .
+
